@@ -1,17 +1,6 @@
 # Anne Slovin's Website
 Anne Slovin's Music Studio Website
 
-src
-|__ assets/
-      |__ fonts
-      |__ graphics
-      |__ images
-      |__ mockups
-|__ components/
-      |__ Header.jsx
-|__ services/
-
-```
 
 #### Component Breakdown
 
