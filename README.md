@@ -2,12 +2,11 @@
 Anne Slovin's Music Studio Website
 
 ### Goal
-To make a user-friendly site to find information on Anne's private studio where they can find information, 
+To make a user-friendly React-App site to find information on Anne's private studio where they can find information and to be able to contact Anne to book lessons. Also, post MVP goal is to teach the client how to update information on the website.
 
 
 #### Component Breakdown
 
-> Use this section to go into further depth regarding your components, including breaking down the components as stateless or stateful, and considering the passing of data between those components.
 
 |  Component   |    Type    | state | props | Description                                                      |
 | :----------: | :--------: | :---: | :---: | :--------------------------------------------------------------- |
@@ -21,8 +20,6 @@ To make a user-friendly site to find information on Anne's private studio where 
 |    Footer    | functional |   n   |   n   | _The footer will showcase Anne's socials and other links to her performance work._ |
 
 #### Time Estimates
-
-> Use this section to estimate the time necessary to build out each of the components you've described above.
 
 | Task                | Priority | Estimated Time | Rate | Time Invested | Actual Time |
 | ------------------- | :------: | :------------: | :--: | :-----------: | :---------: |
