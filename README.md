@@ -4,6 +4,10 @@ Anne Slovin's Music Studio Website
 ### Goal
 To make a user-friendly React-App site to find information on Anne's private studio where they can find information and to be able to contact Anne to book lessons. Also, post MVP goal is to teach the client how to update information on the website.
 
+### Mock Flow Sketch
+
+https://wireframepro.mockflow.com/view/Mb1fd4ffdd5dbe5f92f23c81d3a8ddbb61598277445297#/page/374dd3c9a1154b488464b13858925af4
+
 
 #### Component Breakdown
 
