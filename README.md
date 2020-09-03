@@ -38,3 +38,7 @@ https://wireframepro.mockflow.com/view/Mb1fd4ffdd5dbe5f92f23c81d3a8ddbb615982774
 
 <br>
 
+
+#### Change Log
+(9/2) - created React App
+(9/3) - set up React Architecture for each Component 
