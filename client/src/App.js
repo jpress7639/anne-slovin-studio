@@ -1,5 +1,9 @@
 import React from 'react';
 import Header from './Header/Header';
+import About from './About-Rates-Testimonials/About';
+import Rates from './About-Rates-Testimonials/Rates';
+import Contact from './Contact/Contact/Contact';
+import Footer from './Footer/Footer';
 
 function App() {
   return (
@@ -15,6 +19,10 @@ function App() {
   </ul>
 </nav>
 <Header/>
+<About/>
+<Rates/>
+<Contact/>
+<Footer/>
 </>
   );
 }
